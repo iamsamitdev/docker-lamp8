@@ -1,7 +1,7 @@
 <?php
 session_start();
 
-echo "Hello PHP 7.4<br>";
+echo "Hello PHP 8<br>";
 
 $var = 200.75;
 $arr = array('coffee','tea','milk','soda','water');
