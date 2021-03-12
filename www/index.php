@@ -3,7 +3,7 @@
     <head>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <title>LAMP STACK PHP 7.4</title>
+        <title>LAMP STACK PHP 8</title>
         <link rel="stylesheet" href="/assets/css/bulma.min.css">
     </head>
     <body>
@@ -11,7 +11,7 @@
             <div class="hero-body">
                 <div class="container has-text-centered">
                     <h1 class="title">
-                        LAMP STACK PHP 7.4
+                        LAMP STACK PHP 8
                     </h1>
                     <h2 class="subtitle">
                         Your local development environment
